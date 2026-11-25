@@ -1,0 +1,896 @@
+{
+  "schema": 1,
+  "source": "sncf-connect",
+  "date": "2026-11-10",
+  "origin": {
+    "query": "Paris",
+    "label": null,
+    "id": null
+  },
+  "destination": {
+    "query": "Lyon",
+    "label": null,
+    "id": null
+  },
+  "fetchedAt": "2026-11-11T17:51:49Z",
+  "trains": [
+    {
+      "id": "2026-11-10T06:16_9761",
+      "departAt": "2026-11-10T06:16",
+      "arriveAt": "2026-11-10T09:04",
+      "durationMin": 168,
+      "from": "Paris - Gare De Lyon - Hall 1 & 2",
+      "to": "Lyon Part Dieu",
+      "changes": 1,
+      "legs": [
+        {
+          "from": "Paris - Gare De Lyon - Hall 1 & 2",
+          "fromCode": "8768600",
+          "departs": "06:16",
+          "to": "Bourg-En-Bresse",
+          "toCode": "8774300",
+          "arrives": "08:09",
+          "operator": "LYRIA",
+          "number": "9761"
+        },
+        {
+          "from": "Bourg-En-Bresse",
+          "fromCode": "8774300",
+          "departs": "08:14",
+          "to": "Lyon Part Dieu",
+          "toCode": "8772319",
+          "arrives": "09:04",
+          "operator": "Train TER",
+          "number": "889317"
+        }
+      ],
+      "bookable": true,
+      "availability": "bookable",
+      "priceEur": {
+        "best": 70.6,
+        "second": 70.6,
+        "first": 78.6
+      }
+    },
+    {
+      "id": "2026-11-10T07:00_6603",
+      "departAt": "2026-11-10T07:00",
+      "arriveAt": "2026-11-10T09:11",
+      "durationMin": 131,
+      "from": "Paris - Gare De Lyon - Hall 1 & 2",
+      "to": "Lyon Part Dieu",
+      "changes": 0,
+      "legs": [
+        {
+          "from": "Paris - Gare De Lyon - Hall 1 & 2",
+          "fromCode": "8768600",
+          "departs": "07:00",
+          "to": "Lyon Part Dieu",
+          "toCode": "8772319",
+          "arrives": "09:11",
+          "operator": "TGV INOUI",
+          "number": "6603"
+        }
+      ],
+      "bookable": true,
+      "availability": "bookable",
+      "priceEur": {
+        "best": 115,
+        "second": 115.0,
+        "first": 158.0
+      }
+    },
+    {
+      "id": "2026-11-10T07:26_6643",
+      "departAt": "2026-11-10T07:26",
+      "arriveAt": "2026-11-10T09:22",
+      "durationMin": 116,
+      "from": "Paris - Gare De Lyon - Hall 1 & 2",
+      "to": "Lyon Part Dieu",
+      "changes": 0,
+      "legs": [
+        {
+          "from": "Paris - Gare De Lyon - Hall 1 & 2",
+          "fromCode": "8768600",
+          "departs": "07:26",
+          "to": "Lyon Part Dieu",
+          "toCode": "8772319",
+          "arrives": "09:22",
+          "operator": "TGV INOUI",
+          "number": "6643"
+        }
+      ],
+      "bookable": true,
+      "availability": "bookable",
+      "priceEur": {
+        "best": 84,
+        "second": 84.0,
+        "first": 158.0
+      }
+    },
+    {
+      "id": "2026-11-10T07:34_17769",
+      "departAt": "2026-11-10T07:34",
+      "arriveAt": "2026-11-10T12:44",
+      "durationMin": 310,
+      "from": "Paris - Gare De Lyon - Hall 1 & 2",
+      "to": "Lyon Part Dieu",
+      "changes": 0,
+      "legs": [
+        {
+          "from": "Paris - Gare De Lyon - Hall 1 & 2",
+          "fromCode": "8768600",
+          "departs": "07:34",
+          "to": "Lyon Part Dieu",
+          "toCode": "8772319",
+          "arrives": "12:44",
+          "operator": "Train TER",
+          "number": "17769"
+        }
+      ],
+      "bookable": true,
+      "availability": "bookable",
+      "priceEur": {
+        "best": 65.6,
+        "second": 65.6,
+        "first": null
+      }
+    },
+    {
+      "id": "2026-11-10T07:52_6681",
+      "departAt": "2026-11-10T07:52",
+      "arriveAt": "2026-11-10T09:56",
+      "durationMin": 124,
+      "from": "Paris - Gare De Lyon - Hall 1 & 2",
+      "to": "Lyon Part Dieu",
+      "changes": 0,
+      "legs": [
+        {
+          "from": "Paris - Gare De Lyon - Hall 1 & 2",
+          "fromCode": "8768600",
+          "departs": "07:52",
+          "to": "Lyon Part Dieu",
+          "toCode": "8772319",
+          "arrives": "09:56",
+          "operator": "TGV INOUI",
+          "number": "6681"
+        }
+      ],
+      "bookable": true,
+      "availability": "bookable",
+      "priceEur": {
+        "best": 84,
+        "second": 84.0,
+        "first": 158.0
+      }
+    },
+    {
+      "id": "2026-11-10T08:27_12510",
+      "departAt": "2026-11-10T08:27",
+      "arriveAt": "2026-11-10T10:28",
+      "durationMin": 121,
+      "from": "Aeroport Charles De Gaulle 2 TGV",
+      "to": "Lyon Part Dieu",
+      "changes": 0,
+      "legs": [
+        {
+          "from": "Aeroport Charles De Gaulle 2 TGV",
+          "fromCode": "8727149",
+          "departs": "08:27",
+          "to": "Lyon Part Dieu",
+          "toCode": "8772319",
+          "arrives": "10:28",
+          "operator": "TGV INOUI",
+          "number": "12510"
+        }
+      ],
+      "bookable": true,
+      "availability": "bookable",
+      "priceEur": {
+        "best": 40,
+        "second": 40.0,
+        "first": 61.0
+      }
+    },
+    {
+      "id": "2026-11-10T08:55_7867",
+      "departAt": "2026-11-10T08:55",
+      "arriveAt": "2026-11-10T11:03",
+      "durationMin": 128,
+      "from": "Aeroport Charles De Gaulle 2 TGV",
+      "to": "Lyon Part Dieu",
+      "changes": 0,
+      "legs": [
+        {
+          "from": "Aeroport Charles De Gaulle 2 TGV",
+          "fromCode": "8727149",
+          "departs": "08:55",
+          "to": "Lyon Part Dieu",
+          "toCode": "8772319",
+          "arrives": "11:03",
+          "operator": "OUIGO",
+          "number": "7867"
+        }
+      ],
+      "bookable": true,
+      "availability": "bookable",
+      "priceEur": {
+        "best": 25,
+        "second": 25.0,
+        "first": null
+      }
+    },
+    {
+      "id": "2026-11-10T09:00_6607",
+      "departAt": "2026-11-10T09:00",
+      "arriveAt": "2026-11-10T10:56",
+      "durationMin": 116,
+      "from": "Paris - Gare De Lyon - Hall 1 & 2",
+      "to": "Lyon Part Dieu",
+      "changes": 0,
+      "legs": [
+        {
+          "from": "Paris - Gare De Lyon - Hall 1 & 2",
+          "fromCode": "8768600",
+          "departs": "09:00",
+          "to": "Lyon Part Dieu",
+          "toCode": "8772319",
+          "arrives": "10:56",
+          "operator": "TGV INOUI",
+          "number": "6607"
+        }
+      ],
+      "bookable": true,
+      "availability": "bookable",
+      "priceEur": {
+        "best": 65,
+        "second": 65.0,
+        "first": 78.0
+      }
+    },
+    {
+      "id": "2026-11-10T09:13_7867",
+      "departAt": "2026-11-10T09:13",
+      "arriveAt": "2026-11-10T11:03",
+      "durationMin": 110,
+      "from": "Marne-La-Vallee - Chessy",
+      "to": "Lyon Part Dieu",
+      "changes": 0,
+      "legs": [
+        {
+          "from": "Marne-La-Vallee - Chessy",
+          "fromCode": "8711184",
+          "departs": "09:13",
+          "to": "Lyon Part Dieu",
+          "toCode": "8772319",
+          "arrives": "11:03",
+          "operator": "OUIGO",
+          "number": "7867"
+        }
+      ],
+      "bookable": true,
+      "availability": "bookable",
+      "priceEur": {
+        "best": 25,
+        "second": 25.0,
+        "first": null
+      }
+    },
+    {
+      "id": "2026-11-10T09:42_7885",
+      "departAt": "2026-11-10T09:42",
+      "arriveAt": "2026-11-10T11:33",
+      "durationMin": 111,
+      "from": "Paris - Gare De Lyon - Hall 1 & 2",
+      "to": "Lyon Saint-Exupery TGV",
+      "changes": 0,
+      "legs": [
+        {
+          "from": "Paris - Gare De Lyon - Hall 1 & 2",
+          "fromCode": "8768600",
+          "departs": "09:42",
+          "to": "Lyon Saint-Exupery TGV",
+          "toCode": "8776290",
+          "arrives": "11:33",
+          "operator": "OUIGO",
+          "number": "7885"
+        }
+      ],
+      "bookable": true,
+      "availability": "bookable",
+      "priceEur": {
+        "best": 35,
+        "second": 35.0,
+        "first": null
+      }
+    },
+    {
+      "id": "2026-11-10T10:00_6609",
+      "departAt": "2026-11-10T10:00",
+      "arriveAt": "2026-11-10T11:56",
+      "durationMin": 116,
+      "from": "Paris - Gare De Lyon - Hall 1 & 2",
+      "to": "Lyon Part Dieu",
+      "changes": 0,
+      "legs": [
+        {
+          "from": "Paris - Gare De Lyon - Hall 1 & 2",
+          "fromCode": "8768600",
+          "departs": "10:00",
+          "to": "Lyon Part Dieu",
+          "toCode": "8772319",
+          "arrives": "11:56",
+          "operator": "TGV INOUI",
+          "number": "6609"
+        }
+      ],
+      "bookable": true,
+      "availability": "bookable",
+      "priceEur": {
+        "best": 65,
+        "second": 65.0,
+        "first": 158.0
+      }
+    },
+    {
+      "id": "2026-11-10T11:00_6611",
+      "departAt": "2026-11-10T11:00",
+      "arriveAt": "2026-11-10T12:56",
+      "durationMin": 116,
+      "from": "Paris - Gare De Lyon - Hall 1 & 2",
+      "to": "Lyon Part Dieu",
+      "changes": 0,
+      "legs": [
+        {
+          "from": "Paris - Gare De Lyon - Hall 1 & 2",
+          "fromCode": "8768600",
+          "departs": "11:00",
+          "to": "Lyon Part Dieu",
+          "toCode": "8772319",
+          "arrives": "12:56",
+          "operator": "TGV INOUI",
+          "number": "6611"
+        }
+      ],
+      "bookable": true,
+      "availability": "bookable",
+      "priceEur": {
+        "best": 65,
+        "second": 65.0,
+        "first": 158.0
+      }
+    },
+    {
+      "id": "2026-11-10T12:26_7803",
+      "departAt": "2026-11-10T12:26",
+      "arriveAt": "2026-11-10T14:22",
+      "durationMin": 116,
+      "from": "Paris - Gare De Lyon - Hall 1 & 2",
+      "to": "Lyon Part Dieu",
+      "changes": 0,
+      "legs": [
+        {
+          "from": "Paris - Gare De Lyon - Hall 1 & 2",
+          "fromCode": "8768600",
+          "departs": "12:26",
+          "to": "Lyon Part Dieu",
+          "toCode": "8772319",
+          "arrives": "14:22",
+          "operator": "OUIGO",
+          "number": "7803"
+        }
+      ],
+      "bookable": true,
+      "availability": "bookable",
+      "priceEur": {
+        "best": 25,
+        "second": 25.0,
+        "first": null
+      }
+    },
+    {
+      "id": "2026-11-10T12:50_7841",
+      "departAt": "2026-11-10T12:50",
+      "arriveAt": "2026-11-10T14:33",
+      "durationMin": 103,
+      "from": "Marne-La-Vallee - Chessy",
+      "to": "Lyon Saint-Exupery TGV",
+      "changes": 0,
+      "legs": [
+        {
+          "from": "Marne-La-Vallee - Chessy",
+          "fromCode": "8711184",
+          "departs": "12:50",
+          "to": "Lyon Saint-Exupery TGV",
+          "toCode": "8776290",
+          "arrives": "14:33",
+          "operator": "OUIGO",
+          "number": "7841"
+        }
+      ],
+      "bookable": true,
+      "availability": "bookable",
+      "priceEur": {
+        "best": 16,
+        "second": 16.0,
+        "first": null
+      }
+    },
+    {
+      "id": "2026-11-10T12:52_6685",
+      "departAt": "2026-11-10T12:52",
+      "arriveAt": "2026-11-10T14:56",
+      "durationMin": 124,
+      "from": "Paris - Gare De Lyon - Hall 1 & 2",
+      "to": "Lyon Part Dieu",
+      "changes": 0,
+      "legs": [
+        {
+          "from": "Paris - Gare De Lyon - Hall 1 & 2",
+          "fromCode": "8768600",
+          "departs": "12:52",
+          "to": "Lyon Part Dieu",
+          "toCode": "8772319",
+          "arrives": "14:56",
+          "operator": "TGV INOUI",
+          "number": "6685"
+        }
+      ],
+      "bookable": true,
+      "availability": "bookable",
+      "priceEur": {
+        "best": 84,
+        "second": 84.0,
+        "first": 180.0
+      }
+    },
+    {
+      "id": "2026-11-10T13:35_17775",
+      "departAt": "2026-11-10T13:35",
+      "arriveAt": "2026-11-10T18:44",
+      "durationMin": 309,
+      "from": "Paris Bercy Bourgogne - Pays d'Auvergne",
+      "to": "Lyon Part Dieu",
+      "changes": 0,
+      "legs": [
+        {
+          "from": "Paris Bercy Bourgogne - Pays d'Auvergne",
+          "fromCode": "8768666",
+          "departs": "13:35",
+          "to": "Lyon Part Dieu",
+          "toCode": "8772319",
+          "arrives": "18:44",
+          "operator": "Train TER",
+          "number": "17775"
+        }
+      ],
+      "bookable": true,
+      "availability": "bookable",
+      "priceEur": {
+        "best": 65.6,
+        "second": 65.6,
+        "first": null
+      }
+    },
+    {
+      "id": "2026-11-10T13:52_6617",
+      "departAt": "2026-11-10T13:52",
+      "arriveAt": "2026-11-10T15:56",
+      "durationMin": 124,
+      "from": "Paris - Gare De Lyon - Hall 1 & 2",
+      "to": "Lyon Part Dieu",
+      "changes": 0,
+      "legs": [
+        {
+          "from": "Paris - Gare De Lyon - Hall 1 & 2",
+          "fromCode": "8768600",
+          "departs": "13:52",
+          "to": "Lyon Part Dieu",
+          "toCode": "8772319",
+          "arrives": "15:56",
+          "operator": "TGV INOUI",
+          "number": "6617"
+        }
+      ],
+      "bookable": true,
+      "availability": "bookable",
+      "priceEur": {
+        "best": 115,
+        "second": 115.0,
+        "first": 180.0
+      }
+    },
+    {
+      "id": "2026-11-10T14:13_7835",
+      "departAt": "2026-11-10T14:13",
+      "arriveAt": "2026-11-10T16:00",
+      "durationMin": 107,
+      "from": "Marne-La-Vallee - Chessy",
+      "to": "Lyon Part Dieu",
+      "changes": 0,
+      "legs": [
+        {
+          "from": "Marne-La-Vallee - Chessy",
+          "fromCode": "8711184",
+          "departs": "14:13",
+          "to": "Lyon Part Dieu",
+          "toCode": "8772319",
+          "arrives": "16:00",
+          "operator": "OUIGO",
+          "number": "7835"
+        }
+      ],
+      "bookable": true,
+      "availability": "bookable",
+      "priceEur": {
+        "best": 25,
+        "second": 25.0,
+        "first": null
+      }
+    },
+    {
+      "id": "2026-11-10T14:56_7871",
+      "departAt": "2026-11-10T14:56",
+      "arriveAt": "2026-11-10T16:46",
+      "durationMin": 110,
+      "from": "Paris - Gare De Lyon - Hall 1 & 2",
+      "to": "Lyon Saint-Exupery TGV",
+      "changes": 0,
+      "legs": [
+        {
+          "from": "Paris - Gare De Lyon - Hall 1 & 2",
+          "fromCode": "8768600",
+          "departs": "14:56",
+          "to": "Lyon Saint-Exupery TGV",
+          "toCode": "8776290",
+          "arrives": "16:46",
+          "operator": "OUIGO",
+          "number": "7871"
+        }
+      ],
+      "bookable": true,
+      "availability": "bookable",
+      "priceEur": {
+        "best": 25,
+        "second": 25.0,
+        "first": null
+      }
+    },
+    {
+      "id": "2026-11-10T15:00_6619",
+      "departAt": "2026-11-10T15:00",
+      "arriveAt": "2026-11-10T16:56",
+      "durationMin": 116,
+      "from": "Paris - Gare De Lyon - Hall 1 & 2",
+      "to": "Lyon Part Dieu",
+      "changes": 0,
+      "legs": [
+        {
+          "from": "Paris - Gare De Lyon - Hall 1 & 2",
+          "fromCode": "8768600",
+          "departs": "15:00",
+          "to": "Lyon Part Dieu",
+          "toCode": "8772319",
+          "arrives": "16:56",
+          "operator": "TGV INOUI",
+          "number": "6619"
+        }
+      ],
+      "bookable": true,
+      "availability": "bookable",
+      "priceEur": {
+        "best": 180,
+        "second": null,
+        "first": 180.0
+      }
+    },
+    {
+      "id": "2026-11-10T15:35_17777",
+      "departAt": "2026-11-10T15:35",
+      "arriveAt": "2026-11-10T20:44",
+      "durationMin": 309,
+      "from": "Paris Bercy Bourgogne - Pays d'Auvergne",
+      "to": "Lyon Part Dieu",
+      "changes": 0,
+      "legs": [
+        {
+          "from": "Paris Bercy Bourgogne - Pays d'Auvergne",
+          "fromCode": "8768666",
+          "departs": "15:35",
+          "to": "Lyon Part Dieu",
+          "toCode": "8772319",
+          "arrives": "20:44",
+          "operator": "Train TER",
+          "number": "17777"
+        }
+      ],
+      "bookable": true,
+      "availability": "bookable",
+      "priceEur": {
+        "best": 65.6,
+        "second": 65.6,
+        "first": null
+      }
+    },
+    {
+      "id": "2026-11-10T15:52_6621",
+      "departAt": "2026-11-10T15:52",
+      "arriveAt": "2026-11-10T18:00",
+      "durationMin": 128,
+      "from": "Paris - Gare De Lyon - Hall 1 & 2",
+      "to": "Lyon Part Dieu",
+      "changes": 0,
+      "legs": [
+        {
+          "from": "Paris - Gare De Lyon - Hall 1 & 2",
+          "fromCode": "8768600",
+          "departs": "15:52",
+          "to": "Lyon Part Dieu",
+          "toCode": "8772319",
+          "arrives": "18:00",
+          "operator": "TGV INOUI",
+          "number": "6621"
+        }
+      ],
+      "bookable": false,
+      "availability": "sold-out",
+      "priceEur": {
+        "best": null,
+        "second": null,
+        "first": null
+      }
+    },
+    {
+      "id": "2026-11-10T16:49_7845",
+      "departAt": "2026-11-10T16:49",
+      "arriveAt": "2026-11-10T18:32",
+      "durationMin": 103,
+      "from": "Marne-La-Vallee - Chessy",
+      "to": "Lyon Saint-Exupery TGV",
+      "changes": 0,
+      "legs": [
+        {
+          "from": "Marne-La-Vallee - Chessy",
+          "fromCode": "8711184",
+          "departs": "16:49",
+          "to": "Lyon Saint-Exupery TGV",
+          "toCode": "8776290",
+          "arrives": "18:32",
+          "operator": "OUIGO",
+          "number": "7845"
+        }
+      ],
+      "bookable": true,
+      "availability": "bookable",
+      "priceEur": {
+        "best": 45,
+        "second": 45.0,
+        "first": null
+      }
+    },
+    {
+      "id": "2026-11-10T17:00_6687",
+      "departAt": "2026-11-10T17:00",
+      "arriveAt": "2026-11-10T18:56",
+      "durationMin": 116,
+      "from": "Paris - Gare De Lyon - Hall 1 & 2",
+      "to": "Lyon Part Dieu",
+      "changes": 0,
+      "legs": [
+        {
+          "from": "Paris - Gare De Lyon - Hall 1 & 2",
+          "fromCode": "8768600",
+          "departs": "17:00",
+          "to": "Lyon Part Dieu",
+          "toCode": "8772319",
+          "arrives": "18:56",
+          "operator": "TGV INOUI",
+          "number": "6687"
+        }
+      ],
+      "bookable": false,
+      "availability": "sold-out",
+      "priceEur": {
+        "best": null,
+        "second": null,
+        "first": null
+      }
+    },
+    {
+      "id": "2026-11-10T17:26_6663",
+      "departAt": "2026-11-10T17:26",
+      "arriveAt": "2026-11-10T19:30",
+      "durationMin": 124,
+      "from": "Paris - Gare De Lyon - Hall 1 & 2",
+      "to": "Lyon Part Dieu",
+      "changes": 0,
+      "legs": [
+        {
+          "from": "Paris - Gare De Lyon - Hall 1 & 2",
+          "fromCode": "8768600",
+          "departs": "17:26",
+          "to": "Lyon Part Dieu",
+          "toCode": "8772319",
+          "arrives": "19:30",
+          "operator": "TGV INOUI",
+          "number": "6663"
+        }
+      ],
+      "bookable": false,
+      "availability": "sold-out",
+      "priceEur": {
+        "best": null,
+        "second": null,
+        "first": null
+      }
+    },
+    {
+      "id": "2026-11-10T17:27_17779",
+      "departAt": "2026-11-10T17:27",
+      "arriveAt": "2026-11-10T22:44",
+      "durationMin": 317,
+      "from": "Paris Bercy Bourgogne - Pays d'Auvergne",
+      "to": "Lyon Part Dieu",
+      "changes": 0,
+      "legs": [
+        {
+          "from": "Paris Bercy Bourgogne - Pays d'Auvergne",
+          "fromCode": "8768666",
+          "departs": "17:27",
+          "to": "Lyon Part Dieu",
+          "toCode": "8772319",
+          "arrives": "22:44",
+          "operator": "Train TER",
+          "number": "17779"
+        }
+      ],
+      "bookable": true,
+      "availability": "bookable",
+      "priceEur": {
+        "best": 65.6,
+        "second": 65.6,
+        "first": null
+      }
+    },
+    {
+      "id": "2026-11-10T18:26_6669",
+      "departAt": "2026-11-10T18:26",
+      "arriveAt": "2026-11-10T20:22",
+      "durationMin": 116,
+      "from": "Paris - Gare De Lyon - Hall 1 & 2",
+      "to": "Lyon Part Dieu",
+      "changes": 0,
+      "legs": [
+        {
+          "from": "Paris - Gare De Lyon - Hall 1 & 2",
+          "fromCode": "8768600",
+          "departs": "18:26",
+          "to": "Lyon Part Dieu",
+          "toCode": "8772319",
+          "arrives": "20:22",
+          "operator": "TGV INOUI",
+          "number": "6669"
+        }
+      ],
+      "bookable": false,
+      "availability": "sold-out",
+      "priceEur": {
+        "best": null,
+        "second": null,
+        "first": null
+      }
+    },
+    {
+      "id": "2026-11-10T19:00_6689",
+      "departAt": "2026-11-10T19:00",
+      "arriveAt": "2026-11-10T20:56",
+      "durationMin": 116,
+      "from": "Paris - Gare De Lyon - Hall 1 & 2",
+      "to": "Lyon Part Dieu",
+      "changes": 0,
+      "legs": [
+        {
+          "from": "Paris - Gare De Lyon - Hall 1 & 2",
+          "fromCode": "8768600",
+          "departs": "19:00",
+          "to": "Lyon Part Dieu",
+          "toCode": "8772319",
+          "arrives": "20:56",
+          "operator": "TGV INOUI",
+          "number": "6689"
+        }
+      ],
+      "bookable": false,
+      "availability": "sold-out",
+      "priceEur": {
+        "best": null,
+        "second": null,
+        "first": null
+      }
+    },
+    {
+      "id": "2026-11-10T19:26_7805",
+      "departAt": "2026-11-10T19:26",
+      "arriveAt": "2026-11-10T21:22",
+      "durationMin": 116,
+      "from": "Paris - Gare De Lyon - Hall 1 & 2",
+      "to": "Lyon Part Dieu",
+      "changes": 0,
+      "legs": [
+        {
+          "from": "Paris - Gare De Lyon - Hall 1 & 2",
+          "fromCode": "8768600",
+          "departs": "19:26",
+          "to": "Lyon Part Dieu",
+          "toCode": "8772319",
+          "arrives": "21:22",
+          "operator": "OUIGO",
+          "number": "7805"
+        }
+      ],
+      "bookable": true,
+      "availability": "bookable",
+      "priceEur": {
+        "best": 99,
+        "second": 99.0,
+        "first": null
+      }
+    },
+    {
+      "id": "2026-11-10T20:57_7815",
+      "departAt": "2026-11-10T20:57",
+      "arriveAt": "2026-11-10T22:58",
+      "durationMin": 121,
+      "from": "Marne-La-Vallee - Chessy",
+      "to": "Lyon Perrache",
+      "changes": 0,
+      "legs": [
+        {
+          "from": "Marne-La-Vallee - Chessy",
+          "fromCode": "8711184",
+          "departs": "20:57",
+          "to": "Lyon Perrache",
+          "toCode": "8772202",
+          "arrives": "22:58",
+          "operator": "OUIGO",
+          "number": "7815"
+        }
+      ],
+      "bookable": true,
+      "availability": "bookable",
+      "priceEur": {
+        "best": 19,
+        "second": 19.0,
+        "first": null
+      }
+    },
+    {
+      "id": "2026-11-10T21:00_6633",
+      "departAt": "2026-11-10T21:00",
+      "arriveAt": "2026-11-10T23:10",
+      "durationMin": 130,
+      "from": "Paris - Gare De Lyon - Hall 1 & 2",
+      "to": "Lyon Part Dieu",
+      "changes": 0,
+      "legs": [
+        {
+          "from": "Paris - Gare De Lyon - Hall 1 & 2",
+          "fromCode": "8768600",
+          "departs": "21:00",
+          "to": "Lyon Part Dieu",
+          "toCode": "8772319",
+          "arrives": "23:10",
+          "operator": "TGV INOUI",
+          "number": "6633"
+        }
+      ],
+      "bookable": false,
+      "availability": "sold-out",
+      "priceEur": {
+        "best": null,
+        "second": null,
+        "first": null
+      }
+    }
+  ]
+}

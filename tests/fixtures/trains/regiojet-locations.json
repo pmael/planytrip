@@ -1,0 +1,136 @@
+[
+ {
+  "country": "Austria",
+  "code": "AT",
+  "cities": [
+   {
+    "id": 10202052,
+    "name": "Vienna",
+    "aliases": [
+     "Wien",
+     "Vienne"
+    ],
+    "stationsTypes": [
+     "TRAIN_STATION",
+     "BUS_STATION"
+    ],
+    "stations": [
+     {
+      "id": 3741302011,
+      "name": "Hbf",
+      "latitude": 48.18522644042969,
+      "longitude": 16.376480102539062
+     },
+     {
+      "id": 4218903000,
+      "name": "Hbf Main train station (Südtiroler Platz)",
+      "latitude": 48.185298919677734,
+      "longitude": 16.372875213623047
+     },
+     {
+      "id": 4111552003,
+      "name": "Meidling",
+      "latitude": 48.17521286010742,
+      "longitude": 16.335399627685547
+     },
+     {
+      "id": 10204055,
+      "name": "Schwechat Airport",
+      "latitude": 48.11997985839844,
+      "longitude": 16.563922882080078
+     },
+     {
+      "id": 1,
+      "name": "No position",
+      "latitude": null,
+      "longitude": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "country": "Czech Republic",
+  "code": "CZ",
+  "cities": [
+   {
+    "id": 10202002,
+    "name": "Brno",
+    "aliases": [
+     "Brno"
+    ],
+    "stationsTypes": [
+     "TRAIN_STATION",
+     "BUS_STATION"
+    ],
+    "stations": [
+     {
+      "id": 4987881000,
+      "name": "Královo Pole",
+      "latitude": 49.23056411743164,
+      "longitude": 16.5961971282959
+     },
+     {
+      "id": 3088864001,
+      "name": "MS",
+      "latitude": 49.190853118896484,
+      "longitude": 16.612524032592773
+     },
+     {
+      "id": 10204002,
+      "name": "bus station Grand",
+      "latitude": 49.1933555603027,
+      "longitude": 16.6142520904541
+     },
+     {
+      "id": 3398241000,
+      "name": "Židenice",
+      "latitude": 49.20414733886719,
+      "longitude": 16.636619567871094
+     }
+    ]
+   },
+   {
+    "id": 10202003,
+    "name": "Prague",
+    "aliases": [
+     "Praha",
+     "Praga",
+     "Pha",
+     "Prha",
+     "Prag"
+    ],
+    "stationsTypes": [
+     "TRAIN_STATION",
+     "BUS_STATION"
+    ],
+    "stations": [
+     {
+      "id": 17797000,
+      "name": "Hradčanská",
+      "latitude": 50.09715270996094,
+      "longitude": 14.403122901916504
+     },
+     {
+      "id": 372825000,
+      "name": "MS",
+      "latitude": 50.0829200744629,
+      "longitude": 14.4356060028076
+     },
+     {
+      "id": 17902017,
+      "name": "Na Knížecí",
+      "latitude": 50.06863021850586,
+      "longitude": 14.404358863830566
+     },
+     {
+      "id": 8744788001,
+      "name": "Opletalova, náhradní zastávka",
+      "latitude": 50.084346771240234,
+      "longitude": 14.432955741882324
+     }
+    ]
+   }
+  ]
+ }
+]

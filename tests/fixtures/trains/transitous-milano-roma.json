@@ -1,0 +1,259 @@
+{
+ "itineraries": [
+  {
+   "duration": 10920,
+   "startTime": "2026-12-04T05:34:00Z",
+   "endTime": "2026-12-04T08:36:00Z",
+   "transfers": 0,
+   "legs": [
+    {
+     "mode": "WALK",
+     "duration": 60,
+     "startTime": "2026-12-04T05:34:00Z",
+     "endTime": "2026-12-04T05:35:00Z",
+     "scheduledStartTime": "2026-12-04T05:34:00Z",
+     "scheduledEndTime": "2026-12-04T05:35:00Z",
+     "distance": 61.0,
+     "from": {
+      "name": "START",
+      "lat": 45.486,
+      "lon": 9.204,
+      "tz": "Europe/Rome",
+      "departure": "2026-12-04T05:34:00Z"
+     },
+     "to": {
+      "name": "MILANO CENTRALE",
+      "lat": 45.486340999999996,
+      "lon": 9.204544,
+      "tz": "Europe/Rome",
+      "arrival": "2026-12-04T05:35:00Z"
+     }
+    },
+    {
+     "mode": "HIGHSPEED_RAIL",
+     "duration": 10740,
+     "startTime": "2026-12-04T05:35:00Z",
+     "endTime": "2026-12-04T08:34:00Z",
+     "scheduledStartTime": "2026-12-04T05:35:00Z",
+     "scheduledEndTime": "2026-12-04T08:34:00Z",
+     "routeColor": "c8102e",
+     "routeTextColor": "ffffff",
+     "agencyName": "TRENITALIA",
+     "routeShortName": "FR",
+     "routeLongName": "Frecciarossa",
+     "tripShortName": "9605",
+     "displayName": "FR 9605",
+     "wheelchairAccessible": "NOT_ACCESSIBLE",
+     "from": {
+      "name": "MILANO CENTRALE",
+      "lat": 45.486340999999996,
+      "lon": 9.204544,
+      "tz": "Europe/Rome",
+      "departure": "2026-12-04T05:35:00Z"
+     },
+     "to": {
+      "name": "ROMA TERMINI",
+      "lat": 41.900503,
+      "lon": 12.502027,
+      "tz": "Europe/Rome",
+      "arrival": "2026-12-04T08:34:00Z"
+     }
+    },
+    {
+     "mode": "WALK",
+     "duration": 120,
+     "startTime": "2026-12-04T08:34:00Z",
+     "endTime": "2026-12-04T08:36:00Z",
+     "scheduledStartTime": "2026-12-04T08:34:00Z",
+     "scheduledEndTime": "2026-12-04T08:36:00Z",
+     "distance": 77.0,
+     "from": {
+      "name": "ROMA TERMINI",
+      "lat": 41.900503,
+      "lon": 12.502027,
+      "tz": "Europe/Rome",
+      "departure": "2026-12-04T08:34:00Z",
+      "arrival": "2026-12-04T08:34:00Z"
+     },
+     "to": {
+      "name": "END",
+      "lat": 41.901,
+      "lon": 12.502,
+      "tz": "Europe/Rome",
+      "arrival": "2026-12-04T08:36:00Z"
+     }
+    }
+   ]
+  },
+  {
+   "duration": 11640,
+   "startTime": "2026-12-04T05:59:00Z",
+   "endTime": "2026-12-04T09:13:00Z",
+   "transfers": 0,
+   "legs": [
+    {
+     "mode": "WALK",
+     "duration": 60,
+     "startTime": "2026-12-04T05:59:00Z",
+     "endTime": "2026-12-04T06:00:00Z",
+     "scheduledStartTime": "2026-12-04T05:59:00Z",
+     "scheduledEndTime": "2026-12-04T06:00:00Z",
+     "distance": 61.0,
+     "from": {
+      "name": "START",
+      "lat": 45.486,
+      "lon": 9.204,
+      "tz": "Europe/Rome",
+      "departure": "2026-12-04T05:59:00Z"
+     },
+     "to": {
+      "name": "MILANO CENTRALE",
+      "lat": 45.486340999999996,
+      "lon": 9.204544,
+      "tz": "Europe/Rome",
+      "arrival": "2026-12-04T06:00:00Z"
+     }
+    },
+    {
+     "mode": "HIGHSPEED_RAIL",
+     "duration": 11460,
+     "startTime": "2026-12-04T06:00:00Z",
+     "endTime": "2026-12-04T09:11:00Z",
+     "scheduledStartTime": "2026-12-04T06:00:00Z",
+     "scheduledEndTime": "2026-12-04T09:11:00Z",
+     "routeColor": "c8102e",
+     "routeTextColor": "ffffff",
+     "agencyName": "TRENITALIA",
+     "routeShortName": "FR",
+     "routeLongName": "Frecciarossa",
+     "tripShortName": "9607",
+     "displayName": "FR 9607",
+     "wheelchairAccessible": "NOT_ACCESSIBLE",
+     "from": {
+      "name": "MILANO CENTRALE",
+      "lat": 45.486340999999996,
+      "lon": 9.204544,
+      "tz": "Europe/Rome",
+      "departure": "2026-12-04T06:00:00Z"
+     },
+     "to": {
+      "name": "ROMA TERMINI",
+      "lat": 41.900503,
+      "lon": 12.502027,
+      "tz": "Europe/Rome",
+      "arrival": "2026-12-04T09:11:00Z"
+     }
+    },
+    {
+     "mode": "WALK",
+     "duration": 120,
+     "startTime": "2026-12-04T09:11:00Z",
+     "endTime": "2026-12-04T09:13:00Z",
+     "scheduledStartTime": "2026-12-04T09:11:00Z",
+     "scheduledEndTime": "2026-12-04T09:13:00Z",
+     "distance": 77.0,
+     "from": {
+      "name": "ROMA TERMINI",
+      "lat": 41.900503,
+      "lon": 12.502027,
+      "tz": "Europe/Rome",
+      "departure": "2026-12-04T09:11:00Z",
+      "arrival": "2026-12-04T09:11:00Z"
+     },
+     "to": {
+      "name": "END",
+      "lat": 41.901,
+      "lon": 12.502,
+      "tz": "Europe/Rome",
+      "arrival": "2026-12-04T09:13:00Z"
+     }
+    }
+   ]
+  },
+  {
+   "duration": 11640,
+   "startTime": "2026-12-04T06:29:00Z",
+   "endTime": "2026-12-04T09:43:00Z",
+   "transfers": 0,
+   "legs": [
+    {
+     "mode": "WALK",
+     "duration": 60,
+     "startTime": "2026-12-04T06:29:00Z",
+     "endTime": "2026-12-04T06:30:00Z",
+     "scheduledStartTime": "2026-12-04T06:29:00Z",
+     "scheduledEndTime": "2026-12-04T06:30:00Z",
+     "distance": 61.0,
+     "from": {
+      "name": "START",
+      "lat": 45.486,
+      "lon": 9.204,
+      "tz": "Europe/Rome",
+      "departure": "2026-12-04T06:29:00Z"
+     },
+     "to": {
+      "name": "MILANO CENTRALE",
+      "lat": 45.486340999999996,
+      "lon": 9.204544,
+      "tz": "Europe/Rome",
+      "arrival": "2026-12-04T06:30:00Z"
+     }
+    },
+    {
+     "mode": "HIGHSPEED_RAIL",
+     "duration": 11460,
+     "startTime": "2026-12-04T06:30:00Z",
+     "endTime": "2026-12-04T09:41:00Z",
+     "scheduledStartTime": "2026-12-04T06:30:00Z",
+     "scheduledEndTime": "2026-12-04T09:41:00Z",
+     "routeColor": "c8102e",
+     "routeTextColor": "ffffff",
+     "agencyName": "TRENITALIA",
+     "routeShortName": "FR",
+     "routeLongName": "Frecciarossa",
+     "tripShortName": "9604",
+     "displayName": "FR 9604",
+     "wheelchairAccessible": "NOT_ACCESSIBLE",
+     "from": {
+      "name": "MILANO CENTRALE",
+      "lat": 45.486340999999996,
+      "lon": 9.204544,
+      "tz": "Europe/Rome",
+      "departure": "2026-12-04T06:30:00Z"
+     },
+     "to": {
+      "name": "ROMA TERMINI",
+      "lat": 41.900503,
+      "lon": 12.502027,
+      "tz": "Europe/Rome",
+      "arrival": "2026-12-04T09:41:00Z"
+     }
+    },
+    {
+     "mode": "WALK",
+     "duration": 120,
+     "startTime": "2026-12-04T09:41:00Z",
+     "endTime": "2026-12-04T09:43:00Z",
+     "scheduledStartTime": "2026-12-04T09:41:00Z",
+     "scheduledEndTime": "2026-12-04T09:43:00Z",
+     "distance": 77.0,
+     "from": {
+      "name": "ROMA TERMINI",
+      "lat": 41.900503,
+      "lon": 12.502027,
+      "tz": "Europe/Rome",
+      "departure": "2026-12-04T09:41:00Z",
+      "arrival": "2026-12-04T09:41:00Z"
+     },
+     "to": {
+      "name": "END",
+      "lat": 41.901,
+      "lon": 12.502,
+      "tz": "Europe/Rome",
+      "arrival": "2026-12-04T09:43:00Z"
+     }
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,125 @@
+{
+ "routes": [
+  {
+   "id": "8898869602",
+   "departureStationId": 372825000,
+   "departureTime": "2026-12-04T06:01:00.000+01:00",
+   "arrivalStationId": 3741302011,
+   "arrivalTime": "2026-12-04T10:21:00.000+01:00",
+   "vehicleTypes": [
+    "TRAIN"
+   ],
+   "transfersCount": 0,
+   "freeSeatsCount": 268,
+   "priceFrom": 13.9,
+   "priceTo": 50.9,
+   "bookable": true
+  },
+  {
+   "id": "8759306771",
+   "departureStationId": 10204003,
+   "departureTime": "2026-12-04T07:00:00.000+01:00",
+   "arrivalStationId": 4218903000,
+   "arrivalTime": "2026-12-04T11:40:00.000+01:00",
+   "vehicleTypes": [
+    "BUS"
+   ],
+   "transfersCount": 0,
+   "freeSeatsCount": 48,
+   "priceFrom": 19.9,
+   "priceTo": 23.9,
+   "bookable": true
+  },
+  {
+   "id": "8898869603",
+   "departureStationId": 372825000,
+   "departureTime": "2026-12-04T09:01:00.000+01:00",
+   "arrivalStationId": 3741302011,
+   "arrivalTime": "2026-12-04T13:18:00.000+01:00",
+   "vehicleTypes": [
+    "TRAIN"
+   ],
+   "transfersCount": 0,
+   "freeSeatsCount": 246,
+   "priceFrom": 35.9,
+   "priceTo": 59.9,
+   "bookable": true
+  },
+  {
+   "id": "8759306773",
+   "departureStationId": 10204003,
+   "departureTime": "2026-12-04T11:00:00.000+01:00",
+   "arrivalStationId": 4218903000,
+   "arrivalTime": "2026-12-04T15:50:00.000+01:00",
+   "vehicleTypes": [
+    "BUS"
+   ],
+   "transfersCount": 0,
+   "freeSeatsCount": 50,
+   "priceFrom": 19.9,
+   "priceTo": 23.9,
+   "bookable": true
+  },
+  {
+   "id": "8898869607,8759306774",
+   "departureStationId": 372825000,
+   "departureTime": "2026-12-04T11:01:00.000+01:00",
+   "arrivalStationId": 10204055,
+   "arrivalTime": "2026-12-04T16:50:00.000+01:00",
+   "vehicleTypes": [
+    "TRAIN",
+    "BUS"
+   ],
+   "transfersCount": 1,
+   "freeSeatsCount": 58,
+   "priceFrom": 29.8,
+   "priceTo": 32.4,
+   "bookable": true
+  },
+  {
+   "id": "8898869604",
+   "departureStationId": 372825000,
+   "departureTime": "2026-12-04T13:01:00.000+01:00",
+   "arrivalStationId": 3741302011,
+   "arrivalTime": "2026-12-04T17:21:00.000+01:00",
+   "vehicleTypes": [
+    "TRAIN"
+   ],
+   "transfersCount": 0,
+   "freeSeatsCount": 277,
+   "priceFrom": 35.9,
+   "priceTo": 59.9,
+   "bookable": true
+  },
+  {
+   "id": "dup",
+   "departureStationId": 372825000,
+   "departureTime": "2026-12-04T06:01:00.000+01:00",
+   "arrivalStationId": 3741302011,
+   "arrivalTime": "2026-12-04T10:21:00.000+01:00",
+   "vehicleTypes": [
+    "TRAIN"
+   ],
+   "transfersCount": 0,
+   "freeSeatsCount": 268,
+   "priceFrom": 21.9,
+   "priceTo": 50.9,
+   "bookable": true
+  },
+  {
+   "id": "soldout",
+   "departureStationId": 10204003,
+   "departureTime": "2026-12-04T07:00:00.000+01:00",
+   "arrivalStationId": 4218903000,
+   "arrivalTime": "2026-12-04T11:40:00.000+01:00",
+   "vehicleTypes": [
+    "BUS"
+   ],
+   "transfersCount": 0,
+   "freeSeatsCount": 48,
+   "priceFrom": null,
+   "priceTo": 23.9,
+   "bookable": false
+  }
+ ]
+}

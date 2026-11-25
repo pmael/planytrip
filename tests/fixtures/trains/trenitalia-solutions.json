@@ -1,0 +1,78 @@
+{
+ "solutions": [
+  {
+   "solution": {
+    "departureTime": "2026-12-04T05:50:00.000+01:00",
+    "arrivalTime": "2026-12-04T10:35:00.000+01:00",
+    "status": "SALEABLE",
+    "price": {
+     "amount": 44.9,
+     "currency": "\u20ac"
+    }
+   }
+  },
+  {
+   "solution": {
+    "departureTime": "2026-12-04T06:00:00.000+01:00",
+    "arrivalTime": "2026-12-04T09:10:00.000+01:00",
+    "status": "SALEABLE",
+    "price": {
+     "amount": 56.9,
+     "currency": "\u20ac"
+    }
+   }
+  },
+  {
+   "solution": {
+    "departureTime": "2026-12-04T06:05:00.000+01:00",
+    "arrivalTime": "2026-12-04T14:03:00.000+01:00",
+    "status": "SALEABLE",
+    "price": {
+     "amount": 42.9,
+     "currency": "\u20ac"
+    }
+   }
+  },
+  {
+   "solution": {
+    "departureTime": "2026-12-04T06:10:00.000+01:00",
+    "arrivalTime": "2026-12-04T09:49:00.000+01:00",
+    "status": "SALEABLE",
+    "price": {
+     "amount": 54.9,
+     "currency": "\u20ac"
+    }
+   }
+  },
+  {
+   "solution": {
+    "departureTime": "2026-12-04T06:25:00.000+01:00",
+    "arrivalTime": "2026-12-04T14:33:00.000+01:00",
+    "status": "SALEABLE",
+    "price": {
+     "amount": 65.8,
+     "currency": "\u20ac"
+    }
+   }
+  },
+  {
+   "solution": {
+    "departureTime": "2026-12-04T06:35:00.000+01:00",
+    "arrivalTime": "2026-12-04T09:34:00.000+01:00",
+    "status": "SALEABLE",
+    "price": {
+     "amount": 62.9,
+     "currency": "\u20ac"
+    }
+   }
+  },
+  {
+   "solution": {
+    "departureTime": "2026-12-04T07:20:00.000+01:00",
+    "arrivalTime": "2026-12-04T18:10:00.000+01:00",
+    "status": "SALEABLE",
+    "price": null
+   }
+  }
+ ]
+}

@@ -1,0 +1,505 @@
+{
+"total_count": 50,
+"results": [
+{
+"date_effet": "2025",
+"date_fin": null,
+"libelle_commune": "VILLE DE PARIS",
+"hebergement": "Terrains de camping et terrains de caravanage classés en 1 et 2 étoiles et tout autre terrain d’hébergement de plein air de caractéristiques équivalentes",
+"regime": "Réel",
+"tarif": 0.2,
+"unite": "€",
+"tarif_total": 0.22
+},
+{
+"date_effet": "2025",
+"date_fin": null,
+"libelle_commune": "VILLE DE PARIS",
+"hebergement": "Meublés de tourisme 4 étoiles",
+"regime": "Réel",
+"tarif": 2.6,
+"unite": "€",
+"tarif_total": 2.86
+},
+{
+"date_effet": "2025",
+"date_fin": null,
+"libelle_commune": "VILLE DE PARIS",
+"hebergement": "Meublés de tourisme 2 étoiles",
+"regime": "Réel",
+"tarif": 1.0,
+"unite": "€",
+"tarif_total": 1.1
+},
+{
+"date_effet": "2025",
+"date_fin": null,
+"libelle_commune": "VILLE DE PARIS",
+"hebergement": "Résidences de tourismes 5 étoiles",
+"regime": "Réel",
+"tarif": 3.5,
+"unite": "€",
+"tarif_total": 3.85
+},
+{
+"date_effet": "2025",
+"date_fin": null,
+"libelle_commune": "VILLE DE PARIS",
+"hebergement": "Villages de vacances 1, 2 et 3 étoiles",
+"regime": "Réel",
+"tarif": 0.8,
+"unite": "€",
+"tarif_total": 0.88
+},
+{
+"date_effet": "2025",
+"date_fin": null,
+"libelle_commune": "VILLE DE PARIS",
+"hebergement": "Palaces",
+"regime": "Réel",
+"tarif": 4.8,
+"unite": "€",
+"tarif_total": 5.28
+},
+{
+"date_effet": "2025",
+"date_fin": null,
+"libelle_commune": "VILLE DE PARIS",
+"hebergement": "Hôtels de tourisme 4 étoiles",
+"regime": "Réel",
+"tarif": 2.6,
+"unite": "€",
+"tarif_total": 2.86
+},
+{
+"date_effet": "2025",
+"date_fin": null,
+"libelle_commune": "VILLE DE PARIS",
+"hebergement": "Emplacements dans des aires de camping-cars et des parcs de stationnement touristiques par tranche de 24 heures",
+"regime": "Réel",
+"tarif": 0.6,
+"unite": "€",
+"tarif_total": 0.66
+},
+{
+"date_effet": "2025",
+"date_fin": null,
+"libelle_commune": "VILLE DE PARIS",
+"hebergement": "Hôtels de tourisme 5 étoiles",
+"regime": "Réel",
+"tarif": 3.5,
+"unite": "€",
+"tarif_total": 3.85
+},
+{
+"date_effet": "2025",
+"date_fin": null,
+"libelle_commune": "VILLE DE PARIS",
+"hebergement": "Résidences de tourismes 2 étoiles",
+"regime": "Réel",
+"tarif": 1.0,
+"unite": "€",
+"tarif_total": 1.1
+},
+{
+"date_effet": "2025",
+"date_fin": null,
+"libelle_commune": "VILLE DE PARIS",
+"hebergement": "Hôtels de tourisme 1 étoile",
+"regime": "Réel",
+"tarif": 0.8,
+"unite": "€",
+"tarif_total": 0.88
+},
+{
+"date_effet": "2025",
+"date_fin": null,
+"libelle_commune": "VILLE DE PARIS",
+"hebergement": "Hôtels de tourisme 2 étoiles",
+"regime": "Réel",
+"tarif": 1.0,
+"unite": "€",
+"tarif_total": 1.1
+},
+{
+"date_effet": "2025",
+"date_fin": null,
+"libelle_commune": "VILLE DE PARIS",
+"hebergement": "Meublés de tourisme 3 étoiles",
+"regime": "Réel",
+"tarif": 1.7,
+"unite": "€",
+"tarif_total": 1.87
+},
+{
+"date_effet": "2025",
+"date_fin": null,
+"libelle_commune": "VILLE DE PARIS",
+"hebergement": "Meublés de tourisme 5 étoiles",
+"regime": "Réel",
+"tarif": 3.5,
+"unite": "€",
+"tarif_total": 3.85
+},
+{
+"date_effet": "2025",
+"date_fin": null,
+"libelle_commune": "VILLE DE PARIS",
+"hebergement": "Résidences de tourisme 1 étoile",
+"regime": "Réel",
+"tarif": 0.8,
+"unite": "€",
+"tarif_total": 0.88
+},
+{
+"date_effet": "2025",
+"date_fin": null,
+"libelle_commune": "VILLE DE PARIS",
+"hebergement": "Chambres d’hôtes",
+"regime": "Réel",
+"tarif": 0.8,
+"unite": "€",
+"tarif_total": 0.88
+},
+{
+"date_effet": "2025",
+"date_fin": null,
+"libelle_commune": "VILLE DE PARIS",
+"hebergement": "Auberges collectives",
+"regime": "Réel",
+"tarif": 0.8,
+"unite": "€",
+"tarif_total": 0.88
+},
+{
+"date_effet": "2025",
+"date_fin": null,
+"libelle_commune": "VILLE DE PARIS",
+"hebergement": "Meublés de tourisme 1 étoile",
+"regime": "Réel",
+"tarif": 0.8,
+"unite": "€",
+"tarif_total": 0.88
+},
+{
+"date_effet": "2025",
+"date_fin": null,
+"libelle_commune": "VILLE DE PARIS",
+"hebergement": "Villages de vacances 4 et 5 étoiles",
+"regime": "Réel",
+"tarif": 1.0,
+"unite": "€",
+"tarif_total": 1.1
+},
+{
+"date_effet": "2025",
+"date_fin": null,
+"libelle_commune": "VILLE DE PARIS",
+"hebergement": "Résidences de tourismes 4 étoiles",
+"regime": "Réel",
+"tarif": 2.6,
+"unite": "€",
+"tarif_total": 2.86
+},
+{
+"date_effet": "2025",
+"date_fin": null,
+"libelle_commune": "VILLE DE PARIS",
+"hebergement": "Hôtels de tourisme 3 étoiles",
+"regime": "Réel",
+"tarif": 1.7,
+"unite": "€",
+"tarif_total": 1.87
+},
+{
+"date_effet": "2025",
+"date_fin": null,
+"libelle_commune": "VILLE DE PARIS",
+"hebergement": "Hébergements sans classement ou en attente de classement",
+"regime": "Réel",
+"tarif": 5.0,
+"unite": "%",
+"tarif_total": 5.5
+},
+{
+"date_effet": "2025",
+"date_fin": null,
+"libelle_commune": "VILLE DE PARIS",
+"hebergement": "Terrains de camping et terrains de caravanage classés en 3, 4 et 5 étoiles et tout autre terrain d’hébergement de plein air de caractéristiques équivalentes",
+"regime": "Réel",
+"tarif": 0.6,
+"unite": "€",
+"tarif_total": 0.66
+},
+{
+"date_effet": "2025",
+"date_fin": null,
+"libelle_commune": "VILLE DE PARIS",
+"hebergement": "Résidences de tourismes 3 étoiles",
+"regime": "Réel",
+"tarif": 1.7,
+"unite": "€",
+"tarif_total": 1.87
+},
+{
+"date_effet": "2025",
+"date_fin": null,
+"libelle_commune": "VILLE DE PARIS",
+"hebergement": "Ports de plaisance",
+"regime": "Réel",
+"tarif": 0.2,
+"unite": "€",
+"tarif_total": 0.22
+},
+{
+"date_effet": "2024",
+"date_fin": null,
+"libelle_commune": "VILLE DE PARIS",
+"hebergement": "Terrains de camping et terrains de caravanage classés en 1 et 2 étoiles et tout autre terrain d’hébergement de plein air de caractéristiques équivalentes",
+"regime": "Réel",
+"tarif": 0.2,
+"unite": "€",
+"tarif_total": 0.65
+},
+{
+"date_effet": "2024",
+"date_fin": null,
+"libelle_commune": "VILLE DE PARIS",
+"hebergement": "Villages de vacances 1, 2 et 3 étoiles",
+"regime": "Réel",
+"tarif": 0.8,
+"unite": "€",
+"tarif_total": 2.6
+},
+{
+"date_effet": "2024",
+"date_fin": null,
+"libelle_commune": "VILLE DE PARIS",
+"hebergement": "Villages de vacances 4 et 5 étoiles",
+"regime": "Réel",
+"tarif": 1.0,
+"unite": "€",
+"tarif_total": 3.25
+},
+{
+"date_effet": "2024",
+"date_fin": null,
+"libelle_commune": "VILLE DE PARIS",
+"hebergement": "Résidences de tourismes 5 étoiles",
+"regime": "Réel",
+"tarif": 3.3,
+"unite": "€",
+"tarif_total": 10.73
+},
+{
+"date_effet": "2024",
+"date_fin": null,
+"libelle_commune": "VILLE DE PARIS",
+"hebergement": "Hôtels de tourisme 1 étoile",
+"regime": "Réel",
+"tarif": 0.8,
+"unite": "€",
+"tarif_total": 2.6
+},
+{
+"date_effet": "2024",
+"date_fin": null,
+"libelle_commune": "VILLE DE PARIS",
+"hebergement": "Palaces",
+"regime": "Réel",
+"tarif": 4.6,
+"unite": "€",
+"tarif_total": 14.95
+},
+{
+"date_effet": "2024",
+"date_fin": null,
+"libelle_commune": "VILLE DE PARIS",
+"hebergement": "Meublés de tourisme 2 étoiles",
+"regime": "Réel",
+"tarif": 1.0,
+"unite": "€",
+"tarif_total": 3.25
+},
+{
+"date_effet": "2024",
+"date_fin": null,
+"libelle_commune": "VILLE DE PARIS",
+"hebergement": "Résidences de tourismes 2 étoiles",
+"regime": "Réel",
+"tarif": 1.0,
+"unite": "€",
+"tarif_total": 3.25
+},
+{
+"date_effet": "2024",
+"date_fin": null,
+"libelle_commune": "VILLE DE PARIS",
+"hebergement": "Meublés de tourisme 1 étoile",
+"regime": "Réel",
+"tarif": 0.8,
+"unite": "€",
+"tarif_total": 2.6
+},
+{
+"date_effet": "2024",
+"date_fin": null,
+"libelle_commune": "VILLE DE PARIS",
+"hebergement": "Emplacements dans des aires de camping-cars et des parcs de stationnement touristiques par tranche de 24 heures",
+"regime": "Réel",
+"tarif": 0.6,
+"unite": "€",
+"tarif_total": 1.95
+},
+{
+"date_effet": "2024",
+"date_fin": null,
+"libelle_commune": "VILLE DE PARIS",
+"hebergement": "Auberges collectives",
+"regime": "Réel",
+"tarif": 0.8,
+"unite": "€",
+"tarif_total": 2.6
+},
+{
+"date_effet": "2024",
+"date_fin": null,
+"libelle_commune": "VILLE DE PARIS",
+"hebergement": "Résidences de tourismes 4 étoiles",
+"regime": "Réel",
+"tarif": 2.5,
+"unite": "€",
+"tarif_total": 8.13
+},
+{
+"date_effet": "2024",
+"date_fin": null,
+"libelle_commune": "VILLE DE PARIS",
+"hebergement": "Hôtels de tourisme 2 étoiles",
+"regime": "Réel",
+"tarif": 1.0,
+"unite": "€",
+"tarif_total": 3.25
+},
+{
+"date_effet": "2024",
+"date_fin": null,
+"libelle_commune": "VILLE DE PARIS",
+"hebergement": "Ports de plaisance",
+"regime": "Réel",
+"tarif": 0.2,
+"unite": "€",
+"tarif_total": 0.65
+},
+{
+"date_effet": "2024",
+"date_fin": null,
+"libelle_commune": "VILLE DE PARIS",
+"hebergement": "Résidences de tourismes 3 étoiles",
+"regime": "Réel",
+"tarif": 1.6,
+"unite": "€",
+"tarif_total": 5.2
+},
+{
+"date_effet": "2024",
+"date_fin": null,
+"libelle_commune": "VILLE DE PARIS",
+"hebergement": "Résidences de tourisme 1 étoile",
+"regime": "Réel",
+"tarif": 0.8,
+"unite": "€",
+"tarif_total": 2.6
+},
+{
+"date_effet": "2024",
+"date_fin": null,
+"libelle_commune": "VILLE DE PARIS",
+"hebergement": "Chambres d’hôtes",
+"regime": "Réel",
+"tarif": 0.8,
+"unite": "€",
+"tarif_total": 2.6
+},
+{
+"date_effet": "2024",
+"date_fin": null,
+"libelle_commune": "VILLE DE PARIS",
+"hebergement": "Terrains de camping et terrains de caravanage classés en 3, 4 et 5 étoiles et tout autre terrain d’hébergement de plein air de caractéristiques équivalentes",
+"regime": "Réel",
+"tarif": 0.6,
+"unite": "€",
+"tarif_total": 1.95
+},
+{
+"date_effet": "2024",
+"date_fin": null,
+"libelle_commune": "VILLE DE PARIS",
+"hebergement": "Meublés de tourisme 4 étoiles",
+"regime": "Réel",
+"tarif": 2.5,
+"unite": "€",
+"tarif_total": 8.13
+},
+{
+"date_effet": "2024",
+"date_fin": null,
+"libelle_commune": "VILLE DE PARIS",
+"hebergement": "Hébergements sans classement ou en attente de classement",
+"regime": "Réel",
+"tarif": 5.0,
+"unite": "%",
+"tarif_total": 16.25
+},
+{
+"date_effet": "2024",
+"date_fin": null,
+"libelle_commune": "VILLE DE PARIS",
+"hebergement": "Hôtels de tourisme 4 étoiles",
+"regime": "Réel",
+"tarif": 2.5,
+"unite": "€",
+"tarif_total": 8.13
+},
+{
+"date_effet": "2024",
+"date_fin": null,
+"libelle_commune": "VILLE DE PARIS",
+"hebergement": "Meublés de tourisme 3 étoiles",
+"regime": "Réel",
+"tarif": 1.6,
+"unite": "€",
+"tarif_total": 5.2
+},
+{
+"date_effet": "2024",
+"date_fin": null,
+"libelle_commune": "VILLE DE PARIS",
+"hebergement": "Hôtels de tourisme 3 étoiles",
+"regime": "Réel",
+"tarif": 1.6,
+"unite": "€",
+"tarif_total": 5.2
+},
+{
+"date_effet": "2024",
+"date_fin": null,
+"libelle_commune": "VILLE DE PARIS",
+"hebergement": "Meublés de tourisme 5 étoiles",
+"regime": "Réel",
+"tarif": 3.3,
+"unite": "€",
+"tarif_total": 10.73
+},
+{
+"date_effet": "2024",
+"date_fin": null,
+"libelle_commune": "VILLE DE PARIS",
+"hebergement": "Hôtels de tourisme 5 étoiles",
+"regime": "Réel",
+"tarif": 3.3,
+"unite": "€",
+"tarif_total": 10.73
+}
+]
+}

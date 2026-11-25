@@ -1,0 +1,25 @@
+{
+  "manifest_version": 3,
+  "name": "Trip Manager — prix des trains",
+  "version": "2.0.0",
+  "description": "Reads the trains and prices already displayed in your own SNCF Connect, Eurostar or Iryo tab, when you click, and sends them to your local Trip Manager. Nothing is sent to those sites.",
+  "content_scripts": [
+    {
+      "matches": ["https://www.sncf-connect.com/*"],
+      "js": ["sncf-parser.js", "site-sncf.js", "content.js"],
+      "run_at": "document_idle"
+    },
+    {
+      "matches": ["https://www.eurostar.com/search/*"],
+      "js": ["eurostar-parser.js", "site-eurostar.js", "content.js"],
+      "run_at": "document_idle"
+    },
+    {
+      "matches": ["https://iryo.eu/*/booking/*"],
+      "js": ["iryo-parser.js", "site-iryo.js", "content.js"],
+      "run_at": "document_idle"
+    }
+  ],
+  "background": { "service_worker": "background.js" },
+  "host_permissions": ["http://localhost:3000/*"]
+}

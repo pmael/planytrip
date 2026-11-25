@@ -1,0 +1,1 @@
+ALTER TABLE `transport_options` ADD `sold_out` integer DEFAULT false NOT NULL;

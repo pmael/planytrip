@@ -1,0 +1,449 @@
+{
+  "cities": [
+    "Paris",
+    "",
+    "Londres"
+  ],
+  "directionText": "ParisLondres\n(voyage aller)",
+  "dayText": "ven. 30 oct.\nvendredi 30 octobre\n-\n115 €",
+  "travellersText": "Recherche en cours\n\nParis Gare du Nord\n\n –\nà/de\n\nLondres St Pancras Int'l\n\nven. 30 oct.\nà\n - dim. 1 nov.\n\n1 adulte\n\nParis Gare du Nord\n\nLondres St Pancras Int'l\n\nven. 30 oct.\nà\n - dim. 1 nov.\n\n1 adulte\n\nModifier la recherche\nModifier la recherche",
+  "rows": [
+    {
+      "way": "search-results-outbound-item",
+      "id": "9007-2026-10-30-07:05-08:30-tab-0-panel",
+      "details": "Votre voyage\nDépart de:\n07:05\nArrivée à:\n08:30\nDurée totale:\n\n2 h\nheures\n 25 min\nminutes\n\nDirect",
+      "fares": [
+        {
+          "id": "9007-2026-10-30-07:05-08:30-tab-0-panel",
+          "text": "135 €\n\n,  Départ de: 07:05, Eurostar Standard, 2 heures 25 minutes, Direct"
+        },
+        {
+          "id": "9007-2026-10-30-07:05-08:30-tab-1-panel",
+          "text": "180 €\n\n,  Départ de: 07:05, Eurostar Plus, 2 heures 25 minutes, Direct"
+        },
+        {
+          "id": "9007-2026-10-30-07:05-08:30-tab-2-panel",
+          "text": "325 €\n\n27 places restantes\n,  Départ de: 07:05, Eurostar Premier, 2 heures 25 minutes, Direct"
+        }
+      ],
+      "stations": [
+        "Paris Gare du Nord",
+        "Londres St Pancras Int'l"
+      ]
+    },
+    {
+      "way": "search-results-outbound-item",
+      "id": "9009-2026-10-30-07:32-09:00-tab-0-panel",
+      "details": "Votre voyage\nDépart de:\n07:32\nArrivée à:\n09:00\nDurée totale:\n\n2 h\nheures\n 28 min\nminutes\n\nDirect",
+      "fares": [
+        {
+          "id": "9009-2026-10-30-07:32-09:00-tab-0-panel",
+          "text": "135 €\n\n,  Départ de: 07:32, Eurostar Standard, 2 heures 28 minutes, Direct"
+        },
+        {
+          "id": "9009-2026-10-30-07:32-09:00-tab-1-panel",
+          "text": "180 €\n\n,  Départ de: 07:32, Eurostar Plus, 2 heures 28 minutes, Direct"
+        },
+        {
+          "id": "9009-2026-10-30-07:32-09:00-tab-2-panel",
+          "text": "325 €\n\n29 places restantes\n,  Départ de: 07:32, Eurostar Premier, 2 heures 28 minutes, Direct"
+        }
+      ],
+      "stations": [
+        "Paris Gare du Nord",
+        "Londres St Pancras Int'l"
+      ]
+    },
+    {
+      "way": "search-results-outbound-item",
+      "id": "9013-2026-10-30-08:36-10:00-tab-0-panel",
+      "details": "Votre voyage\nDépart de:\n08:36\nArrivée à:\n10:00\nDurée totale:\n\n2 h\nheures\n 24 min\nminutes\n\nDirect",
+      "fares": [
+        {
+          "id": "9013-2026-10-30-08:36-10:00-tab-0-panel",
+          "text": "165 €\n\n,  Départ de: 08:36, Eurostar Standard, 2 heures 24 minutes, Direct"
+        },
+        {
+          "id": "9013-2026-10-30-08:36-10:00-tab-1-panel",
+          "text": "205 €\n\n,  Départ de: 08:36, Eurostar Plus, 2 heures 24 minutes, Direct"
+        },
+        {
+          "id": "9013-2026-10-30-08:36-10:00-tab-2-panel",
+          "text": "325 €\n\n,  Départ de: 08:36, Eurostar Premier, 2 heures 24 minutes, Direct"
+        }
+      ],
+      "stations": [
+        "Paris Gare du Nord",
+        "Londres St Pancras Int'l"
+      ]
+    },
+    {
+      "way": "search-results-outbound-item",
+      "id": "9015-2026-10-30-08:58-10:30-tab-0-panel",
+      "details": "Votre voyage\nDépart de:\n08:58\nArrivée à:\n10:30\nDurée totale:\n\n2 h\nheures\n 32 min\nminutes\n\nDirect",
+      "fares": [
+        {
+          "id": "9015-2026-10-30-08:58-10:30-tab-0-panel",
+          "text": "165 €\n\n,  Départ de: 08:58, Eurostar Standard, 2 heures 32 minutes, Direct"
+        },
+        {
+          "id": "9015-2026-10-30-08:58-10:30-tab-1-panel",
+          "text": "230 €\n\n,  Départ de: 08:58, Eurostar Plus, 2 heures 32 minutes, Direct"
+        },
+        {
+          "id": "9015-2026-10-30-08:58-10:30-tab-2-panel",
+          "text": "325 €\n\n,  Départ de: 08:58, Eurostar Premier, 2 heures 32 minutes, Direct"
+        }
+      ],
+      "stations": [
+        "Paris Gare du Nord",
+        "Londres St Pancras Int'l"
+      ]
+    },
+    {
+      "way": "search-results-outbound-item",
+      "id": "9019-2026-10-30-10:06-11:30-tab-0-panel",
+      "details": "Votre voyage\nDépart de:\n10:06\nArrivée à:\n11:30\nDurée totale:\n\n2 h\nheures\n 24 min\nminutes\n\nDirect",
+      "fares": [
+        {
+          "id": "9019-2026-10-30-10:06-11:30-tab-0-panel",
+          "text": "165 €\n\n,  Départ de: 10:06, Eurostar Standard, 2 heures 24 minutes, Direct"
+        },
+        {
+          "id": "9019-2026-10-30-10:06-11:30-tab-1-panel",
+          "text": "255 €\n\n,  Départ de: 10:06, Eurostar Plus, 2 heures 24 minutes, Direct"
+        },
+        {
+          "id": "9019-2026-10-30-10:06-11:30-tab-2-panel",
+          "text": "325 €\n\n,  Départ de: 10:06, Eurostar Premier, 2 heures 24 minutes, Direct"
+        }
+      ],
+      "stations": [
+        "Paris Gare du Nord",
+        "Londres St Pancras Int'l"
+      ]
+    },
+    {
+      "way": "search-results-outbound-item",
+      "id": "9023-2026-10-30-10:57-12:30-tab-0-panel",
+      "details": "Votre voyage\nDépart de:\n10:57\nArrivée à:\n12:30\nDurée totale:\n\n2 h\nheures\n 33 min\nminutes\n\nDirect",
+      "fares": [
+        {
+          "id": "9023-2026-10-30-10:57-12:30-tab-0-panel",
+          "text": "190 €\n\n,  Départ de: 10:57, Eurostar Standard, 2 heures 33 minutes, Direct"
+        },
+        {
+          "id": "9023-2026-10-30-10:57-12:30-tab-1-panel",
+          "text": "255 €\n\n,  Départ de: 10:57, Eurostar Plus, 2 heures 33 minutes, Direct"
+        },
+        {
+          "id": "9023-2026-10-30-10:57-12:30-tab-2-panel",
+          "text": "325 €\n\n,  Départ de: 10:57, Eurostar Premier, 2 heures 33 minutes, Direct"
+        }
+      ],
+      "stations": [
+        "Paris Gare du Nord",
+        "Londres St Pancras Int'l"
+      ]
+    },
+    {
+      "way": "search-results-outbound-item",
+      "id": "9027-2026-10-30-11:59-13:35-tab-0-panel",
+      "details": "Votre voyage\nDépart de:\n11:59\nArrivée à:\n13:35\nDurée totale:\n\n2 h\nheures\n 36 min\nminutes\n\nDirect",
+      "fares": [
+        {
+          "id": "9027-2026-10-30-11:59-13:35-tab-0-panel",
+          "text": "165 €\n\n,  Départ de: 11:59, Eurostar Standard, 2 heures 36 minutes, Direct"
+        },
+        {
+          "id": "9027-2026-10-30-11:59-13:35-tab-1-panel",
+          "text": "255 €\n\n,  Départ de: 11:59, Eurostar Plus, 2 heures 36 minutes, Direct"
+        },
+        {
+          "id": "9027-2026-10-30-11:59-13:35-tab-2-panel",
+          "text": "325 €\n\n,  Départ de: 11:59, Eurostar Premier, 2 heures 36 minutes, Direct"
+        }
+      ],
+      "stations": [
+        "Paris Gare du Nord",
+        "Londres St Pancras Int'l"
+      ]
+    },
+    {
+      "way": "search-results-outbound-item",
+      "id": "9029-2026-10-30-12:30-14:00-tab-0-panel",
+      "details": "Votre voyage\nDépart de:\n12:30\nArrivée à:\n14:00\nDurée totale:\n\n2 h\nheures\n 30 min\nminutes\n\nDirect",
+      "fares": [
+        {
+          "id": "9029-2026-10-30-12:30-14:00-tab-0-panel",
+          "text": "165 €\n\n,  Départ de: 12:30, Eurostar Standard, 2 heures 30 minutes, Direct"
+        },
+        {
+          "id": "9029-2026-10-30-12:30-14:00-tab-1-panel",
+          "text": "255 €\n\n,  Départ de: 12:30, Eurostar Plus, 2 heures 30 minutes, Direct"
+        },
+        {
+          "id": "9029-2026-10-30-12:30-14:00-tab-2-panel",
+          "text": "350 €\n\n,  Départ de: 12:30, Eurostar Premier, 2 heures 30 minutes, Direct"
+        }
+      ],
+      "stations": [
+        "Paris Gare du Nord",
+        "Londres St Pancras Int'l"
+      ]
+    },
+    {
+      "way": "search-results-outbound-item",
+      "id": "9031-2026-10-30-13:06-14:30-tab-0-panel",
+      "details": "Votre voyage\nDépart de:\n13:06\nArrivée à:\n14:30\nDurée totale:\n\n2 h\nheures\n 24 min\nminutes\n\nDirect",
+      "fares": [
+        {
+          "id": "9031-2026-10-30-13:06-14:30-tab-0-panel",
+          "text": "190 €\n\n,  Départ de: 13:06, Eurostar Standard, 2 heures 24 minutes, Direct"
+        },
+        {
+          "id": "9031-2026-10-30-13:06-14:30-tab-1-panel",
+          "text": "230 €\n\n,  Départ de: 13:06, Eurostar Plus, 2 heures 24 minutes, Direct"
+        },
+        {
+          "id": "9031-2026-10-30-13:06-14:30-tab-2-panel",
+          "text": "350 €\n\n30 places restantes\n,  Départ de: 13:06, Eurostar Premier, 2 heures 24 minutes, Direct"
+        }
+      ],
+      "stations": [
+        "Paris Gare du Nord",
+        "Londres St Pancras Int'l"
+      ]
+    },
+    {
+      "way": "search-results-outbound-item",
+      "id": "9037-2026-10-30-14:31-16:05-tab-0-panel",
+      "details": "Votre voyage\nDépart de:\n14:31\nArrivée à:\n16:05\nDurée totale:\n\n2 h\nheures\n 34 min\nminutes\n\nDirect",
+      "fares": [
+        {
+          "id": "9037-2026-10-30-14:31-16:05-tab-0-panel",
+          "text": "165 €\n\n,  Départ de: 14:31, Eurostar Standard, 2 heures 34 minutes, Direct"
+        },
+        {
+          "id": "9037-2026-10-30-14:31-16:05-tab-1-panel",
+          "text": "280 €\n\n22 places restantes\n,  Départ de: 14:31, Eurostar Plus, 2 heures 34 minutes, Direct"
+        },
+        {
+          "id": "9037-2026-10-30-14:31-16:05-tab-2-panel",
+          "text": "350 €\n\n,  Départ de: 14:31, Eurostar Premier, 2 heures 34 minutes, Direct"
+        }
+      ],
+      "stations": [
+        "Paris Gare du Nord",
+        "Londres St Pancras Int'l"
+      ]
+    },
+    {
+      "way": "search-results-outbound-item",
+      "id": "9039-2026-10-30-15:06-16:30-tab-0-panel",
+      "details": "Votre voyage\nDépart de:\n15:06\nArrivée à:\n16:30\nDurée totale:\n\n2 h\nheures\n 24 min\nminutes\n\nDirect",
+      "fares": [
+        {
+          "id": "9039-2026-10-30-15:06-16:30-tab-0-panel",
+          "text": "190 €\n\n,  Départ de: 15:06, Eurostar Standard, 2 heures 24 minutes, Direct"
+        },
+        {
+          "id": "9039-2026-10-30-15:06-16:30-tab-1-panel",
+          "text": "230 €\n\n,  Départ de: 15:06, Eurostar Plus, 2 heures 24 minutes, Direct"
+        },
+        {
+          "id": "9039-2026-10-30-15:06-16:30-tab-2-panel",
+          "text": "325 €\n\n,  Départ de: 15:06, Eurostar Premier, 2 heures 24 minutes, Direct"
+        }
+      ],
+      "stations": [
+        "Paris Gare du Nord",
+        "Londres St Pancras Int'l"
+      ]
+    },
+    {
+      "way": "search-results-outbound-item",
+      "id": "9043-2026-10-30-15:55-17:35-tab-0-panel",
+      "details": "Votre voyage\nDépart de:\n15:55\nArrivée à:\n17:35\nDurée totale:\n\n2 h\nheures\n 40 min\nminutes\n\nDirect",
+      "fares": [
+        {
+          "id": "9043-2026-10-30-15:55-17:35-tab-0-panel",
+          "text": "165 €\n\n,  Départ de: 15:55, Eurostar Standard, 2 heures 40 minutes, Direct"
+        },
+        {
+          "id": "9043-2026-10-30-15:55-17:35-tab-1-panel",
+          "text": "255 €\n\n,  Départ de: 15:55, Eurostar Plus, 2 heures 40 minutes, Direct"
+        },
+        {
+          "id": "9043-2026-10-30-15:55-17:35-tab-2-panel",
+          "text": "325 €\n\n,  Départ de: 15:55, Eurostar Premier, 2 heures 40 minutes, Direct"
+        }
+      ],
+      "stations": [
+        "Paris Gare du Nord",
+        "Londres St Pancras Int'l"
+      ]
+    },
+    {
+      "way": "search-results-outbound-item",
+      "id": "9045-2026-10-30-16:27-18:00-tab-0-panel",
+      "details": "Votre voyage\nDépart de:\n16:27\nArrivée à:\n18:00\nDurée totale:\n\n2 h\nheures\n 33 min\nminutes\n\nDirect",
+      "fares": [
+        {
+          "id": "9045-2026-10-30-16:27-18:00-tab-0-panel",
+          "text": "190 €\n\n,  Départ de: 16:27, Eurostar Standard, 2 heures 33 minutes, Direct"
+        },
+        {
+          "id": "9045-2026-10-30-16:27-18:00-tab-1-panel",
+          "text": "255 €\n\n,  Départ de: 16:27, Eurostar Plus, 2 heures 33 minutes, Direct"
+        },
+        {
+          "id": "9045-2026-10-30-16:27-18:00-tab-2-panel",
+          "text": "325 €\n\n,  Départ de: 16:27, Eurostar Premier, 2 heures 33 minutes, Direct"
+        }
+      ],
+      "stations": [
+        "Paris Gare du Nord",
+        "Londres St Pancras Int'l"
+      ]
+    },
+    {
+      "way": "search-results-outbound-item",
+      "id": "9047-2026-10-30-17:00-18:30-tab-0-panel",
+      "details": "Votre voyage\nDépart de:\n17:00\nArrivée à:\n18:30\nDurée totale:\n\n2 h\nheures\n 30 min\nminutes\n\nDirect",
+      "fares": [
+        {
+          "id": "9047-2026-10-30-17:00-18:30-tab-0-panel",
+          "text": "165 €\n\n,  Départ de: 17:00, Eurostar Standard, 2 heures 30 minutes, Direct"
+        },
+        {
+          "id": "9047-2026-10-30-17:00-18:30-tab-1-panel",
+          "text": "255 €\n\n,  Départ de: 17:00, Eurostar Plus, 2 heures 30 minutes, Direct"
+        },
+        {
+          "id": "9047-2026-10-30-17:00-18:30-tab-2-panel",
+          "text": "325 €\n\n,  Départ de: 17:00, Eurostar Premier, 2 heures 30 minutes, Direct"
+        }
+      ],
+      "stations": [
+        "Paris Gare du Nord",
+        "Londres St Pancras Int'l"
+      ]
+    },
+    {
+      "way": "search-results-outbound-item",
+      "id": "9051-2026-10-30-17:57-19:38-tab-0-panel",
+      "details": "Votre voyage\nDépart de:\n17:57\nArrivée à:\n19:38\nDurée totale:\n\n2 h\nheures\n 41 min\nminutes\n\nDirect",
+      "fares": [
+        {
+          "id": "9051-2026-10-30-17:57-19:38-tab-0-panel",
+          "text": "165 €\n\n,  Départ de: 17:57, Eurostar Standard, 2 heures 41 minutes, Direct"
+        },
+        {
+          "id": "9051-2026-10-30-17:57-19:38-tab-1-panel",
+          "text": "280 €\n\n24 places restantes\n,  Départ de: 17:57, Eurostar Plus, 2 heures 41 minutes, Direct"
+        },
+        {
+          "id": "9051-2026-10-30-17:57-19:38-tab-2-panel",
+          "text": "325 €\n\n,  Départ de: 17:57, Eurostar Premier, 2 heures 41 minutes, Direct"
+        }
+      ],
+      "stations": [
+        "Paris Gare du Nord",
+        "Londres St Pancras Int'l"
+      ]
+    },
+    {
+      "way": "search-results-outbound-item",
+      "id": "9055-2026-10-30-18:56-20:30-tab-0-panel",
+      "details": "Votre voyage\nDépart de:\n18:56\nArrivée à:\n20:30\nDurée totale:\n\n2 h\nheures\n 34 min\nminutes\n\nDirect",
+      "fares": [
+        {
+          "id": "9055-2026-10-30-18:56-20:30-tab-0-panel",
+          "text": "165 €\n\n,  Départ de: 18:56, Eurostar Standard, 2 heures 34 minutes, Direct"
+        },
+        {
+          "id": "9055-2026-10-30-18:56-20:30-tab-1-panel",
+          "text": "280 €\n\n25 places restantes\n,  Départ de: 18:56, Eurostar Plus, 2 heures 34 minutes, Direct"
+        },
+        {
+          "id": "9055-2026-10-30-18:56-20:30-tab-2-panel",
+          "text": "325 €\n\n,  Départ de: 18:56, Eurostar Premier, 2 heures 34 minutes, Direct"
+        }
+      ],
+      "stations": [
+        "Paris Gare du Nord",
+        "Londres St Pancras Int'l"
+      ]
+    },
+    {
+      "way": "search-results-outbound-item",
+      "id": "9059-2026-10-30-19:52-21:30-tab-0-panel",
+      "details": "Votre voyage\nDépart de:\n19:52\nArrivée à:\n21:30\nDurée totale:\n\n2 h\nheures\n 38 min\nminutes\n\nDirect",
+      "fares": [
+        {
+          "id": "9059-2026-10-30-19:52-21:30-tab-0-panel",
+          "text": "165 €\n\n,  Départ de: 19:52, Eurostar Standard, 2 heures 38 minutes, Direct"
+        },
+        {
+          "id": "9059-2026-10-30-19:52-21:30-tab-1-panel",
+          "text": "230 €\n\n,  Départ de: 19:52, Eurostar Plus, 2 heures 38 minutes, Direct"
+        },
+        {
+          "id": "9059-2026-10-30-19:52-21:30-tab-2-panel",
+          "text": "325 €\n\n,  Départ de: 19:52, Eurostar Premier, 2 heures 38 minutes, Direct"
+        }
+      ],
+      "stations": [
+        "Paris Gare du Nord",
+        "Londres St Pancras Int'l"
+      ]
+    },
+    {
+      "way": "search-results-outbound-item",
+      "id": "9061-2026-10-30-20:28-22:00-tab-0-panel",
+      "details": "Votre voyage\nDépart de:\n20:28\nArrivée à:\n22:00\nDurée totale:\n\n2 h\nheures\n 32 min\nminutes\n\nDirect",
+      "fares": [
+        {
+          "id": "9061-2026-10-30-20:28-22:00-tab-0-panel",
+          "text": "165 €\n\n,  Départ de: 20:28, Eurostar Standard, 2 heures 32 minutes, Direct"
+        },
+        {
+          "id": "9061-2026-10-30-20:28-22:00-tab-1-panel",
+          "text": "205 €\n\n,  Départ de: 20:28, Eurostar Plus, 2 heures 32 minutes, Direct"
+        },
+        {
+          "id": "9061-2026-10-30-20:28-22:00-tab-2-panel",
+          "text": "325 €\n\n,  Départ de: 20:28, Eurostar Premier, 2 heures 32 minutes, Direct"
+        }
+      ],
+      "stations": [
+        "Paris Gare du Nord",
+        "Londres St Pancras Int'l"
+      ]
+    },
+    {
+      "way": "search-results-outbound-item",
+      "id": "9063-2026-10-30-21:02-22:30-tab-0-panel",
+      "details": "Votre voyage\nDépart de:\n21:02\nArrivée à:\n22:30\nDurée totale:\n\n2 h\nheures\n 28 min\nminutes\n\nDirect",
+      "fares": [
+        {
+          "id": "9063-2026-10-30-21:02-22:30-tab-0-panel",
+          "text": "115 €\n\nMeilleur tarif\n,  Départ de: 21:02, Eurostar Standard, 2 heures 28 minutes, Direct"
+        },
+        {
+          "id": "9063-2026-10-30-21:02-22:30-tab-1-panel",
+          "text": "205 €\n\n,  Départ de: 21:02, Eurostar Plus, 2 heures 28 minutes, Direct"
+        },
+        {
+          "id": "9063-2026-10-30-21:02-22:30-tab-2-panel",
+          "text": "325 €\n\n22 places restantes\n,  Départ de: 21:02, Eurostar Premier, 2 heures 28 minutes, Direct"
+        }
+      ],
+      "stations": [
+        "Paris Gare du Nord",
+        "Londres St Pancras Int'l"
+      ]
+    }
+  ]
+}

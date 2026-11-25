@@ -1,0 +1,224 @@
+{
+ "itineraries": [
+  {
+   "duration": 15180,
+   "startTime": "2026-12-04T06:36:00Z",
+   "endTime": "2026-12-04T10:49:00Z",
+   "transfers": 0,
+   "legs": [
+    {
+     "mode": "WALK",
+     "duration": 60,
+     "startTime": "2026-12-04T06:36:00Z",
+     "endTime": "2026-12-04T06:37:00Z",
+     "scheduledStartTime": "2026-12-04T06:36:00Z",
+     "scheduledEndTime": "2026-12-04T06:37:00Z",
+     "distance": 1.0,
+     "from": {
+      "name": "START",
+      "lat": 43.6112,
+      "lon": 1.4536,
+      "tz": "Europe/Paris",
+      "departure": "2026-12-04T06:36:00Z"
+     },
+     "to": {
+      "name": "Toulouse Matabiau",
+      "lat": 43.611205999999996,
+      "lon": 1.4536159999999998,
+      "tz": "Europe/Paris",
+      "arrival": "2026-12-04T06:37:00Z"
+     }
+    },
+    {
+     "mode": "HIGHSPEED_RAIL",
+     "duration": 15060,
+     "startTime": "2026-12-04T06:37:00Z",
+     "endTime": "2026-12-04T10:48:00Z",
+     "scheduledStartTime": "2026-12-04T06:37:00Z",
+     "scheduledEndTime": "2026-12-04T10:48:00Z",
+     "agencyName": "SNCF VOYAGEURS",
+     "routeShortName": "",
+     "routeLongName": "",
+     "tripShortName": "6871",
+     "displayName": "TGV INOUI 6871",
+     "wheelchairAccessible": "NOT_ACCESSIBLE",
+     "from": {
+      "name": "Toulouse Matabiau",
+      "lat": 43.611205999999996,
+      "lon": 1.4536159999999998,
+      "tz": "Europe/Paris",
+      "departure": "2026-12-04T06:37:00Z"
+     },
+     "to": {
+      "name": "Lyon Part Dieu",
+      "lat": 45.76059600000001,
+      "lon": 4.859409,
+      "tz": "Europe/Paris",
+      "arrival": "2026-12-04T10:48:00Z"
+     }
+    },
+    {
+     "mode": "WALK",
+     "duration": 60,
+     "startTime": "2026-12-04T10:48:00Z",
+     "endTime": "2026-12-04T10:49:00Z",
+     "scheduledStartTime": "2026-12-04T10:48:00Z",
+     "scheduledEndTime": "2026-12-04T10:49:00Z",
+     "distance": 46.0,
+     "from": {
+      "name": "Lyon Part Dieu",
+      "lat": 45.76059600000001,
+      "lon": 4.859409,
+      "tz": "Europe/Paris",
+      "departure": "2026-12-04T10:48:00Z",
+      "arrival": "2026-12-04T10:48:00Z"
+     },
+     "to": {
+      "name": "END",
+      "lat": 45.7606,
+      "lon": 4.8597,
+      "tz": "Europe/Paris",
+      "arrival": "2026-12-04T10:49:00Z"
+     }
+    }
+   ]
+  },
+  {
+   "duration": 16800,
+   "startTime": "2026-12-04T07:41:00Z",
+   "endTime": "2026-12-04T12:21:00Z",
+   "transfers": 1,
+   "legs": [
+    {
+     "mode": "WALK",
+     "duration": 60,
+     "startTime": "2026-12-04T07:41:00Z",
+     "endTime": "2026-12-04T07:42:00Z",
+     "scheduledStartTime": "2026-12-04T07:41:00Z",
+     "scheduledEndTime": "2026-12-04T07:42:00Z",
+     "distance": 1.0,
+     "from": {
+      "name": "START",
+      "lat": 43.6112,
+      "lon": 1.4536,
+      "tz": "Europe/Paris",
+      "departure": "2026-12-04T07:41:00Z"
+     },
+     "to": {
+      "name": "Toulouse Matabiau",
+      "lat": 43.611205999999996,
+      "lon": 1.4536159999999998,
+      "tz": "Europe/Paris",
+      "arrival": "2026-12-04T07:42:00Z"
+     }
+    },
+    {
+     "mode": "LONG_DISTANCE",
+     "duration": 9660,
+     "startTime": "2026-12-04T07:42:00Z",
+     "endTime": "2026-12-04T10:23:00Z",
+     "scheduledStartTime": "2026-12-04T07:42:00Z",
+     "scheduledEndTime": "2026-12-04T10:23:00Z",
+     "agencyName": "SNCF VOYAGEURS",
+     "routeShortName": "",
+     "routeLongName": "",
+     "tripShortName": "4655",
+     "displayName": "IC 4655",
+     "wheelchairAccessible": "NOT_ACCESSIBLE",
+     "from": {
+      "name": "Toulouse Matabiau",
+      "lat": 43.611205999999996,
+      "lon": 1.4536159999999998,
+      "tz": "Europe/Paris",
+      "departure": "2026-12-04T07:42:00Z"
+     },
+     "to": {
+      "name": "Nîmes Centre",
+      "lat": 43.832313000000006,
+      "lon": 4.3658719999999995,
+      "tz": "Europe/Paris",
+      "arrival": "2026-12-04T10:23:00Z"
+     }
+    },
+    {
+     "mode": "WALK",
+     "duration": 120,
+     "startTime": "2026-12-04T10:23:00Z",
+     "endTime": "2026-12-04T10:25:00Z",
+     "scheduledStartTime": "2026-12-04T10:23:00Z",
+     "scheduledEndTime": "2026-12-04T10:25:00Z",
+     "distance": 3.0,
+     "from": {
+      "name": "Nîmes Centre",
+      "lat": 43.832313000000006,
+      "lon": 4.3658719999999995,
+      "tz": "Europe/Paris",
+      "departure": "2026-12-04T10:23:00Z",
+      "arrival": "2026-12-04T10:23:00Z"
+     },
+     "to": {
+      "name": "Estación de tren NIMES",
+      "lat": 43.83229,
+      "lon": 4.365844999999999,
+      "tz": "Europe/Paris",
+      "arrival": "2026-12-04T10:25:00Z"
+     }
+    },
+    {
+     "mode": "REGIONAL_RAIL",
+     "duration": 4860,
+     "startTime": "2026-12-04T10:59:00Z",
+     "endTime": "2026-12-04T12:20:00Z",
+     "scheduledStartTime": "2026-12-04T10:59:00Z",
+     "scheduledEndTime": "2026-12-04T12:20:00Z",
+     "routeColor": "f2f5f5",
+     "routeTextColor": "000000",
+     "agencyName": "RENFE OPERADORA",
+     "routeShortName": "AVE INT",
+     "routeLongName": "",
+     "tripShortName": "09737",
+     "displayName": "AVE INT",
+     "wheelchairAccessible": "NOT_ACCESSIBLE",
+     "from": {
+      "name": "Estación de tren NIMES",
+      "lat": 43.83229,
+      "lon": 4.365844999999999,
+      "tz": "Europe/Paris",
+      "departure": "2026-12-04T10:59:00Z"
+     },
+     "to": {
+      "name": "Estación de tren Lyon Part Dieu",
+      "lat": 45.76028,
+      "lon": 4.859801,
+      "tz": "Europe/Paris",
+      "arrival": "2026-12-04T12:20:00Z"
+     }
+    },
+    {
+     "mode": "WALK",
+     "duration": 60,
+     "startTime": "2026-12-04T12:20:00Z",
+     "endTime": "2026-12-04T12:21:00Z",
+     "scheduledStartTime": "2026-12-04T12:20:00Z",
+     "scheduledEndTime": "2026-12-04T12:21:00Z",
+     "distance": 43.0,
+     "from": {
+      "name": "Estación de tren Lyon Part Dieu",
+      "lat": 45.76028,
+      "lon": 4.859801,
+      "tz": "Europe/Paris",
+      "departure": "2026-12-04T12:20:00Z",
+      "arrival": "2026-12-04T12:20:00Z"
+     },
+     "to": {
+      "name": "END",
+      "lat": 45.7606,
+      "lon": 4.8597,
+      "tz": "Europe/Paris",
+      "arrival": "2026-12-04T12:21:00Z"
+     }
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,242 @@
+{
+  "active": 0,
+  "tabs": [
+    {
+      "date": "31 Octubre"
+    },
+    {
+      "date": "01 Noviembre"
+    }
+  ],
+  "cities": "MADRID - VALENCIA",
+  "stations": "Madrid-Todas las estaciones - Valencia-Joaquín Sorolla",
+  "travellersText": "1 Adulto",
+  "addressDates": {
+    "outbound": "2026-10-31",
+    "inbound": "2026-11-01"
+  },
+  "columns": [
+    "Inicial",
+    "Infinita",
+    "Infinita Bistró"
+  ],
+  "rows": [
+    {
+      "id": "select-travel-outSchedule-row_0",
+      "originStation": "Madrid-Chamartin",
+      "destinationStation": "",
+      "duration": "2h",
+      "times": [
+        "09:30",
+        "11:30"
+      ],
+      "text": "Madrid-Chamartin 2h 09:30 11:30 43,47 € 41,30 € 54,79 € 52,06 € 77,62 € 73,74 €",
+      "cells": [
+        {
+          "id": "select-travel-outSchedule-cell_0-0_PT_FLEX2-ST-09:30",
+          "paid": "41,30 €",
+          "original": "43,47 €",
+          "text": "43,47 € 41,30 €"
+        },
+        {
+          "id": "select-travel-outSchedule-cell_0-1_PS_CFFLEX2-ST-09:30",
+          "paid": "52,06 €",
+          "original": "54,79 €",
+          "text": "54,79 € 52,06 €"
+        },
+        {
+          "id": "select-travel-outSchedule-cell_0-2_PI_GRFLEX2-ST-09:30",
+          "paid": "73,74 €",
+          "original": "77,62 €",
+          "text": "77,62 € 73,74 €"
+        }
+      ]
+    },
+    {
+      "id": "select-travel-outSchedule-row_1",
+      "originStation": "Madrid-Chamartin",
+      "destinationStation": "",
+      "duration": "1h 59m",
+      "times": [
+        "10:45",
+        "12:44"
+      ],
+      "text": "Madrid-Chamartin 1h 59m 10:45 12:44 39,02 € 37,07 € 48,09 € 45,69 € 69,20 € 65,74 €",
+      "cells": [
+        {
+          "id": "select-travel-outSchedule-cell_1-0_PT_FLEX2-ST-10:45",
+          "paid": "37,07 €",
+          "original": "39,02 €",
+          "text": "39,02 € 37,07 €"
+        },
+        {
+          "id": "select-travel-outSchedule-cell_1-1_PS_CFFLEX2-ST-10:45",
+          "paid": "45,69 €",
+          "original": "48,09 €",
+          "text": "48,09 € 45,69 €"
+        },
+        {
+          "id": "select-travel-outSchedule-cell_1-2_PI_GRFLEX2-ST-10:45",
+          "paid": "65,74 €",
+          "original": "69,20 €",
+          "text": "69,20 € 65,74 €"
+        }
+      ]
+    },
+    {
+      "id": "select-travel-outSchedule-row_2",
+      "originStation": "Madrid-Chamartin",
+      "destinationStation": "",
+      "duration": "1h 54m",
+      "times": [
+        "13:30",
+        "15:24"
+      ],
+      "text": "Madrid-Chamartin 1h 54m 13:30 15:24 30,43 € 28,91 € 41,37 € 39,31 € 59,70 € 56,72 €",
+      "cells": [
+        {
+          "id": "select-travel-outSchedule-cell_2-0_PT_FLEX2-ST-13:30",
+          "paid": "28,91 €",
+          "original": "30,43 €",
+          "text": "30,43 € 28,91 €"
+        },
+        {
+          "id": "select-travel-outSchedule-cell_2-1_PS_CFFLEX2-ST-13:30",
+          "paid": "39,31 €",
+          "original": "41,37 €",
+          "text": "41,37 € 39,31 €"
+        },
+        {
+          "id": "select-travel-outSchedule-cell_2-2_PI_GRFLEX2-ST-13:30",
+          "paid": "56,72 €",
+          "original": "59,70 €",
+          "text": "59,70 € 56,72 €"
+        }
+      ]
+    },
+    {
+      "id": "select-travel-outSchedule-row_3",
+      "originStation": "Madrid-Chamartin",
+      "destinationStation": "",
+      "duration": "1h 54m",
+      "times": [
+        "15:15",
+        "17:09"
+      ],
+      "text": "Madrid-Chamartin 1h 54m 15:15 17:09 28,61 € 27,18 € 38,88 € 36,94 € 58,94 € 56,00 €",
+      "cells": [
+        {
+          "id": "select-travel-outSchedule-cell_3-0_PT_FLEX2-ST-15:15",
+          "paid": "27,18 €",
+          "original": "28,61 €",
+          "text": "28,61 € 27,18 €"
+        },
+        {
+          "id": "select-travel-outSchedule-cell_3-1_PS_CFFLEX2-ST-15:15",
+          "paid": "36,94 €",
+          "original": "38,88 €",
+          "text": "38,88 € 36,94 €"
+        },
+        {
+          "id": "select-travel-outSchedule-cell_3-2_PI_GRFLEX2-ST-15:15",
+          "paid": "56,00 €",
+          "original": "58,94 €",
+          "text": "58,94 € 56,00 €"
+        }
+      ]
+    },
+    {
+      "id": "select-travel-outSchedule-row_4",
+      "originStation": "Madrid-Chamartin",
+      "destinationStation": "",
+      "duration": "1h 59m",
+      "times": [
+        "16:45",
+        "18:44"
+      ],
+      "text": "Madrid-Chamartin 1h 59m 16:45 18:44 22,84 € 21,70 € 30,64 € 29,11 € 46,90 € 44,56 €",
+      "cells": [
+        {
+          "id": "select-travel-outSchedule-cell_4-0_PT_FLEX2-ST-16:45",
+          "paid": "21,70 €",
+          "original": "22,84 €",
+          "text": "22,84 € 21,70 €"
+        },
+        {
+          "id": "select-travel-outSchedule-cell_4-1_PS_CFFLEX2-ST-16:45",
+          "paid": "29,11 €",
+          "original": "30,64 €",
+          "text": "30,64 € 29,11 €"
+        },
+        {
+          "id": "select-travel-outSchedule-cell_4-2_PI_GRFLEX2-ST-16:45",
+          "paid": "44,56 €",
+          "original": "46,90 €",
+          "text": "46,90 € 44,56 €"
+        }
+      ]
+    },
+    {
+      "id": "select-travel-outSchedule-row_5",
+      "originStation": "Madrid-Chamartin",
+      "destinationStation": "",
+      "duration": "1h 54m",
+      "times": [
+        "19:30",
+        "21:24"
+      ],
+      "text": "Madrid-Chamartin 1h 54m 19:30 21:24 22,16 € 21,06 € 29,03 € 27,58 € 45,44 € 43,17 €",
+      "cells": [
+        {
+          "id": "select-travel-outSchedule-cell_5-0_PT_FLEX2-ST-19:30",
+          "paid": "21,06 €",
+          "original": "22,16 €",
+          "text": "22,16 € 21,06 €"
+        },
+        {
+          "id": "select-travel-outSchedule-cell_5-1_PS_CFFLEX2-ST-19:30",
+          "paid": "27,58 €",
+          "original": "29,03 €",
+          "text": "29,03 € 27,58 €"
+        },
+        {
+          "id": "select-travel-outSchedule-cell_5-2_PI_GRFLEX2-ST-19:30",
+          "paid": "43,17 €",
+          "original": "45,44 €",
+          "text": "45,44 € 43,17 €"
+        }
+      ]
+    },
+    {
+      "id": "select-travel-outSchedule-row_6",
+      "originStation": "Madrid-Chamartin",
+      "destinationStation": "",
+      "duration": "1h 54m",
+      "times": [
+        "20:45",
+        "22:39"
+      ],
+      "text": "Madrid-Chamartin 1h 54m 20:45 22:39 18,83 € 17,89 € 35,95 € 34,16 € 56,81 € 53,97 €",
+      "cells": [
+        {
+          "id": "select-travel-outSchedule-cell_6-0_PT_FLEX2-ST-20:45",
+          "paid": "17,89 €",
+          "original": "18,83 €",
+          "text": "18,83 € 17,89 €"
+        },
+        {
+          "id": "select-travel-outSchedule-cell_6-1_PS_CFFLEX2-ST-20:45",
+          "paid": "34,16 €",
+          "original": "35,95 €",
+          "text": "35,95 € 34,16 €"
+        },
+        {
+          "id": "select-travel-outSchedule-cell_6-2_PI_GRFLEX2-ST-20:45",
+          "paid": "53,97 €",
+          "original": "56,81 €",
+          "text": "56,81 € 53,97 €"
+        }
+      ]
+    }
+  ]
+}

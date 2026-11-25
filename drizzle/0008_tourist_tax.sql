@@ -1,0 +1,1 @@
+ALTER TABLE `destination_prices` ADD `tourist_tax_json` text;
